@@ -1,2 +1,2 @@
 # gradle-kotlin-spring
-Learning gradle kotlin and spring kotlin in one projects
+Learning gradle kotlin and spring kotlin in one project
